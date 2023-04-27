@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
+
+:root {
+  --bs-body-font-family: 'Itim', cursive;
+}
+
+body {
+  background: url('./images/wallpaper.jpg') no-repeat center;
+}
+
+main {
+  margin: auto;
+  width: 65vw;
+}
+
+.notes-form,
+.saved-notes-section {
+  border: 1px solid;
+  padding: 1rem;
+  border-radius: 20px;
+  background: rgba(255, 255, 255, 0.659);
+}
