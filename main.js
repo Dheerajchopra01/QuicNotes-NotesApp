@@ -299,14 +299,3 @@ const showAlert = (type, customMessage) => {
     message.innerHTML = '';
   }, 2000);
 };
-
-/* 
- Notes
-
- 1. created dynamic button- view, edit
- 2. created customer attribute using data-*
- 3. created dynamic table, inserted row dyamically.
- 4. Event listener issue resolved.
- 5. created custom bootstrap auto dismissable alert
-
- */
